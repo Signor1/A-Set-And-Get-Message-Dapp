@@ -1,5 +1,7 @@
 # Decentralized Application (Dapp) - Message Setter and Getter
 
+<img width="50%" align="left" src="https://github.com/Signor1/A-Set-And-Get-Message-Dapp/blob/a1ee8ceaacdec8c89e9802179022d5ab97f117cd/Screenshot%202024-01-31%20at%204.43.22%20PM.png"/>
+
 This decentralized application (Dapp) allows users to get and set messages on the Ethereum blockchain. It utilizes React for the frontend, Solidity for smart contract development, and Hardhat as the development environment.
 
 ## Getting Started
