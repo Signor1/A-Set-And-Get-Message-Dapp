@@ -5,6 +5,7 @@
 
 This decentralized application (Dapp) allows users to get and set messages on the Ethereum blockchain. It utilizes React for the frontend, Solidity for smart contract development, and Hardhat as the development environment.
 
+contract Address = 0xbb17c0DE13a76eF57e9b00020f712A1740A8cf01
 
 ## Getting Started
 
